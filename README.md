@@ -1,6 +1,3 @@
-Prerequisites
-
-Node.js 18.17+
 
 npm
 
@@ -31,9 +28,9 @@ npm start
 🛠 How the Project Is Designed
 Why This Stack
 
-Next.js 14 (App Router) gives us fast routing, better server-side rendering, and a more modern developer experience.
+React.js 14 (App Router) gives us fast routing, better server-side rendering, and a more modern developer experience.
 
-Tailwind CSS v4 makes styling quick and consistent, with improved performance in the latest version.
+CSS v4 makes styling quick and consistent, with improved performance in the latest version.
 
 Recharts simplifies building responsive, interactive visualizations—perfect for dashboards.
 
