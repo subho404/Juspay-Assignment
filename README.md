@@ -77,4 +77,4 @@ Added dynamic city markers (NY, SF, Sydney, Singapore).
 
 Styled the map to automatically follow the current theme
 
-Here is the Deployed version of this project: 
+Here is the Deployed version of this project: - https://juspay-ui-two.vercel.app/
